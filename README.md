@@ -21,7 +21,7 @@ UNC campus or Online
 ## How it works
  This hybrid in-person/remote one-day hackathon will bring together coders, programmers, data visualization whizzes, and environmental enthusiasts to help us discover actionable insights, develop engaging data visuals, and create action plans to address the growing and intensifying challenge of climate change and urban heat in the Triangle.
 
-Data analysis can be completed using any programming languages and tools. There will be data mentoring on site and online to support the team during the event. To help participants better prepare for the event, tutorials and resources are also posted on the main event page. Please find them in **Event Resources** section. 
+Data analysis can be completed using any programming languages and tools. There will be data mentors on site and online to support the team during the event. To help participants better prepare for the event, tutorials and resources are also posted on the main event page. Please find them in **Event Resources** section. 
 
 Teams will have the opportunity throughout the day to ask for feedback as they develop their ideas and final products, and at the end, a panel of judges composed of community stakeholders will provide feedback and award prizes for the winning entries. 
 
@@ -33,8 +33,21 @@ Please see the **[Data Description](https://github.com/datadrivenenvirolab/heat-
 
 ## Tackle Challenges
 
-## Background
 
+
+## Background
+Fancy about more studies and event related to Urban Heat Island? 
+Please check out here:
+
+ [DDL releases 2021 Chapel Hill #HeatWatch data report](https://datadrivenlab.org/climate/ddl-releases-2021-chapel-hill-heatwatch-data-report/)
+ 
+[Urban Heat Island Temperature Mapping Campaign – Raleigh and Durham 2021](https://climate.ncsu.edu/research/uhi/#:~:text=Raleigh%20and%20Durham%20%E2%80%93%202021&text=In%202021%2C%20Raleigh%20and%20Durham,cities%20of%20Raleigh%20and%20Durham.)
+
+ [Chapel Hill #HeatWatch: How we used citizen science to map urban heat in Chapel Hill](https://datadrivenlab.org/featured/how-we-used-citizen-science-to-map-urban-heat/)
+
+ [The Global Surface UHI Explorer: An Interactive Map of Urban Heat](https://datadrivenlab.users.earthengine.app/view/usuhiapp)
+
+[Disproportionate exposure to urban heat island intensity across major US cities](https://www.nature.com/articles/s41467-021-22799-5.epdf?sharing_token=TY2syM94JtMXthapvKVPf9RgN0jAjWel9jnR3ZoTv0MkAvRQ0BlAVUfQF_JPxfWYvW8BXdGun-nAXFfrS5PP01PeDHVZznoBN9BCEcGa840ym0uCwiskwYTzutooYT3_H9Au-c1jM7zwmz4cuswCuhq7xuVANgPLYoJUMAjPOOo%3D)
 
 
 ## Acknowledgement
