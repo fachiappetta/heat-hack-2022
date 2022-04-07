@@ -1,6 +1,8 @@
 # HeatHack 2022: Data Science Collabathon
 _-- **Hacking solutions to address the challenge of climate change and urban heat in the Triangle**_
 
+![Title_image](Doc/title.png?raw=true "Title")
+
 In the summer of 2021, Data-Driven Lab collaborated with the North Carolina Museum of Life and Science and the Town of Chapel Hill to pilot an urban heat data collection campaign in Chapel Hill.  We identified neighborhoods that with high potential of heat exposure based on the Town of Chapel Hill's Extreme Heat Resiliency Assessment mapp.Then we equiped the volunteers with handheld Pocketlab sensors that collect individual-scale temperature, humidity, and location measurements. We mapped five of the most vulnerable hotspots in Chapel Hill,  collecting more than 95 thousand data points. Combined with the car-based mobile monitoring conducted in the Raleigh/Durham area, we have high-resolution, spatial datasets of temperature for the entire RTP area. With these data, in addition to other data our lab has access to, we can ask questions such as, “What are the hottest parts of the triangle area, and why? How do green space and tree canopy patterns correspond to urban heat? Can we determine ‘thermal comfort’ zones and potential heat risk areas?”
 
 To answer these questions, provide training, have impact, and provide hands-on fun, we propose a HeatHack 2021 Data Science Collabathon during the 2022 NC Science Festival.  We want to bring coders, programmers, data visualization whizzes, and environmental enthusiasts together to help us distill actionable insights, develop engaging data visuals, and create action plans based on science for the RTP area to address the growing and intensifying challenge of climate change and urban heat.
