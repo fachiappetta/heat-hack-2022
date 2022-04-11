@@ -60,7 +60,11 @@ For those hackers interested in exploring relationships between heat and communi
 
   
   
-  
+ __Low Income Energy Affordability Data (LEAD):__
+
+The Low-Income Energy Affordability Data (LEAD) Tool was developed by the US Department of Energy to help stakeholders better understand the energy burdens on low and moderate income households throughout the US. The LEAD Tool provides information on energy and housing characteristics for cohorts of households at the state, city, county, and census tract levels. LEAD data for North Carolina is available in a Google Drive folder at the following link: https://drive.google.com/drive/folders/198XITVRTHJOcFwMB_9pQb-eOXuHRaBiJ?usp=sharing. The folder includes six Excel files organized by the income brackets used (area median income (AMI), federal poverty line (FPL), and state median income (SMI)) and geography (census tracts and states, counties, and cities) and a data dictionary included as a separate file ("LEAD Data Dictionary").
+
+If you'd like to download data for additional US states or learn more about the LEAD tool, please visit: https://www.energy.gov/eere/slsc/maps/lead-tool
   
   
 
