@@ -1,7 +1,10 @@
+
 # HeatHack 2022: Data Science Collabathon
 _-- **Hacking solutions to address the challenge of climate change and urban heat in the Triangle**_
 
 ![Title_image](Doc/title.png?raw=true "Title")
+
+**[HeatHack Event Main Website](http://datadrivenlab.org/heat-hack-2022/)**
 
 In the summer of 2021, Data-Driven Lab collaborated with the North Carolina Museum of Life and Science and the Town of Chapel Hill to pilot an urban heat data collection campaign in Chapel Hill.  We identified neighborhoods that with high potential of heat exposure based on the Town of Chapel Hill's Extreme Heat Resiliency Assessment mapp.Then we equiped the volunteers with handheld Pocketlab sensors that collect individual-scale temperature, humidity, and location measurements. We mapped five of the most vulnerable hotspots in Chapel Hill,  collecting more than 95 thousand data points. Combined with the car-based mobile monitoring conducted in the Raleigh/Durham area, we have high-resolution, spatial datasets of temperature for the entire RTP area. With these data, in addition to other data our lab has access to, we can ask questions such as, “What are the hottest parts of the triangle area, and why? How do green space and tree canopy patterns correspond to urban heat? Can we determine ‘thermal comfort’ zones and potential heat risk areas?”
 
@@ -55,6 +58,23 @@ Please check out here:
 
 [Disproportionate exposure to urban heat island intensity across major US cities](https://www.nature.com/articles/s41467-021-22799-5.epdf?sharing_token=TY2syM94JtMXthapvKVPf9RgN0jAjWel9jnR3ZoTv0MkAvRQ0BlAVUfQF_JPxfWYvW8BXdGun-nAXFfrS5PP01PeDHVZznoBN9BCEcGa840ym0uCwiskwYTzutooYT3_H9Au-c1jM7zwmz4cuswCuhq7xuVANgPLYoJUMAjPOOo%3D)
 
+## Tutorials
+
+**R**
+
+[Intro to R](http://www.r-tutor.com/r-introduction)
+
+[Spatial Data Programming with R](http://132.72.155.230:3838/r/)
+
+[Map Spatial Data in R](https://geocompr.robinlovelace.net/adv-map.html)
+
+**Python**
+
+[Intro to Python – Pandas](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
+
+[Intro to Geopandas](https://automating-gis-processes.github.io/CSC18/lessons/L2/geopandas-basics.html)
+
+[Work with Rasters](https://kodu.ut.ee/~kmoch/geopython2020/L5/raster.html)
 
 ## Acknowledgement
 This HeatHack 2022 Data Science Collabathon is a part of the NC Scifest led by Data-Driven Lab and the North CarolinaMuseum of Life and Science. Special thanks to our event partners: Town of Chapel Hill, Morehead Planetarium and Science Center. 
