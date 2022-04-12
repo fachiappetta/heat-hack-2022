@@ -1,4 +1,5 @@
 ﻿
+
 # HeatHack 2022 – Dataset Description
 
 _Hacking solutions to address the challenge of climate change and urban heat in the Triangle_
@@ -59,31 +60,44 @@ __ACS Data:__
 For those hackers interested in exploring relationships between heat and community variables, we have provided a great number of demographic variables collected from the American Community Survey. Visit the README_ACSData.txt file for complete information on the variables available.
 
   
-  
- __Low Income Energy Affordability Data (LEAD):__
+  ----
 
-The Low-Income Energy Affordability Data (LEAD) Tool was developed by the US Department of Energy to help stakeholders better understand the energy burdens on low and moderate income households throughout the US. The LEAD Tool provides information on energy and housing characteristics for cohorts of households at the state, city, county, and census tract levels. LEAD data for North Carolina is available in a Google Drive folder at the following link: https://drive.google.com/drive/folders/198XITVRTHJOcFwMB_9pQb-eOXuHRaBiJ?usp=sharing. The folder includes six Excel files organized by the income brackets used (area median income (AMI), federal poverty line (FPL), and state median income (SMI)) and geography (census tracts and states, counties, and cities) and a data dictionary included as a separate file ("LEAD Data Dictionary").
-
-If you'd like to download data for additional US states or learn more about the LEAD tool, please visit: https://www.energy.gov/eere/slsc/maps/lead-tool
-  
-  
-
-__Other Data__
+### Other Data
 
 To help brainstorm and execute potential hack ideas, we have provided links to a large number of other interesting spatial datasets that have not been pre-processed.
 
   
 
-Raleigh/Durham Spatial Data:
+**Raleigh/Durham Spatial Data:**
 https://docs.google.com/document/d/1E7pbUoQAUjs_fQKOQSa0j-VI1iQCHqIp/edit
 
   
-Chapel Hill Spatial Data:
+**Chapel Hill Spatial Data:**
 https://docs.google.com/document/d/1fb5g6LH2NKTMmcGMXa-il9kH1S07a1SO/edit
 
 
-General North Carolina Spatial Data:
+**General North Carolina Spatial Data:**
 https://docs.google.com/document/d/173nQyvWEAcvhGVBrktf97IXrRC9ml3_7/edit
 
-Awesome Public Datasets
+**Awesome Public Datasets**
 https://github.com/awesomedata/awesome-public-datasets#natural-language
+
+
+**Redlining**
+
+Mapping Inequality - University of Richmond. Has historic maps, spatial shapefiles (geojson). [https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58)
+
+  
+
+Also joined these redlining data with Meier et al. (2021) and Hsu et al. (2021) for census-tract level analysis and investigation of redlining from 2010 to 2020, although LST/UHI data only available for most recent year (2020).
+
+  
+
+[https://drive.google.com/drive/u/0/folders/1nej7yM3u6ohHgiebY5z6TRkLFdUjp82K](https://drive.google.com/drive/u/0/folders/1nej7yM3u6ohHgiebY5z6TRkLFdUjp82K)
+
+
+ __Low Income Energy Affordability Data (LEAD):__
+
+The Low-Income Energy Affordability Data (LEAD) Tool was developed by the US Department of Energy to help stakeholders better understand the energy burdens on low and moderate income households throughout the US. The LEAD Tool provides information on energy and housing characteristics for cohorts of households at the state, city, county, and census tract levels. LEAD data for North Carolina is available in a Google Drive folder at the following link: https://drive.google.com/drive/folders/198XITVRTHJOcFwMB_9pQb-eOXuHRaBiJ?usp=sharing. The folder includes six Excel files organized by the income brackets used (area median income (AMI), federal poverty line (FPL), and state median income (SMI)) and geography (census tracts and states, counties, and cities) and a data dictionary included as a separate file ("LEAD Data Dictionary").
+
+If you'd like to download data for additional US states or learn more about the LEAD tool, please visit: https://www.energy.gov/eere/slsc/maps/lead-tool
