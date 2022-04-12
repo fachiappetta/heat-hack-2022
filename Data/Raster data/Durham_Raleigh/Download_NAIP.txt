@@ -1,0 +1,11 @@
+Please note that each file is about 1GB. 
+
+NAIP Red band: https://drive.google.com/file/d/1VbaqhmCzIpV5b19l6snS_C5dyl4mNCBV/view?usp=sharing
+
+NAIP NIR band: https://drive.google.com/file/d/1lHGtZJZKEnYIQDxiuguWwQfn7KF1EsCj/view?usp=sharing
+
+NAIP Green band: https://drive.google.com/file/d/1oLhammGbk5-KZAWERqaoX4KvZ6kjbxVX/view?usp=sharing
+
+NAIP Blue band: https://drive.google.com/file/d/184t_SJMreFUKosPiMr6e4DM2cw24_vHT/view?usp=sharing
+
+
