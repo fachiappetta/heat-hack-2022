@@ -25,6 +25,11 @@ Data analysis can be completed using any programming languages and tools. There 
 
 Teams will have the opportunity throughout the day to ask for feedback as they develop their ideas and final products, and at the end, a panel of judges composed of community stakeholders will provide feedback and award prizes for the winning entries. 
 
+Check out the **Judging Criteria and Scoring** to learn how the projects will be evaluated!
+
+## Prize
+
+
 ## Datasets Description
 The heat data in HeatHack Datasets was created in collaboration with Data-Driven Lab (Chapel Hill) and the NC Museum of Life and Science(Durham and Raleigh) during HeatWatch campiagns in the summer of 2021. The datasets are also enriched with additonal variables, such as land cover, land surface temperature, etc for the hackers to start with. 
 
