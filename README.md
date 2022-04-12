@@ -32,8 +32,9 @@ All data can be download from this Github repository or google drive.
 Please see the **[Data Description](https://github.com/datadrivenenvirolab/heat-hack-2022/tree/main/Data)** for more details on the dataset. 
 
 ## Tackle Challenges
+In the Google doc below, we’ve provided some prompts to help you and your team think about ways to use the heat data and other data to develop potential solutions for urban heat and climate change challenges in the Triangle. The first section includes some general questions to help you start thinking about issues related to urban heat. The second section provides a “starter pack” set of prompts that can be investigated using the pre-processed heat data and input variables provided in the “Data” folder above (please see the **[Data Description](https://github.com/datadrivenenvirolab/heat-hack-2022/tree/main/Data)** for more details). The third section includes questions on more advanced topics related to vulnerable populations and policy applications that might require you to find and incorporate other datasets. For both of the advanced sections, we’ve included links to other publicly available datasets that might help answer some of these questions, but feel free to look for and incorporate any other relevant datasets you might find on your own!
 
-
+HeatHack Prompts: https://docs.google.com/document/d/1Qb7CPTWlWQKsAlsYCP1QZCCe_tAIUkIk/edit?usp=sharing&ouid=101544858877917002306&rtpof=true&sd=true
 
 ## Background
 Fancy about more studies and event related to Urban Heat Island? 
