@@ -1,4 +1,5 @@
 
+
 # HeatHack 2022: Data Science Collabathon
 _-- **Hacking solutions to address the challenge of climate change and urban heat in the Triangle**_
 
@@ -16,21 +17,53 @@ This Collabathon is open to all! Whether you are a coder, data geek, or environm
 
 **Please note that  participants under age 18 who planned to attend in person need to be accompanied by an adult.**
 
+The registration will close on April 15 at 5 pm. [Register here](http://datadrivenlab.org/heat-hack-2022/)
 
-## Location
 
-UNC campus or Online
 
 ## How it works
+
+**Overview**
  This hybrid in-person/remote one-day hackathon will bring together coders, programmers, data visualization whizzes, and environmental enthusiasts to help us discover actionable insights, develop engaging data visuals, and create action plans to address the growing and intensifying challenge of climate change and urban heat in the Triangle.
 
-Data analysis can be completed using any programming languages and tools. There will be data mentors on site and online to support the team during the event. To help participants better prepare for the event, tutorials and resources are also posted on the main event page. Please find them in **Event Resources** section. 
+Data analysis can be completed using any programming languages and tools. There will be data mentors on site and online to support the team during the event. To help participants better prepare for the event, tutorials and resources are also posted on the main event page and the [Tutorials](https://github.com/datadrivenenvirolab/heat-hack-2022#tutorials) section on this page. 
+
+**Team**
+Check out [Team Matching]() setion to find your dream team! If you and your team will be participating the HeatHack virtually, please use the [Discord channel](https://discord.gg/ABzNkGUMAb) to collaborate and seek for help!
 
 Teams will have the opportunity throughout the day to ask for feedback as they develop their ideas and final products, and at the end, a panel of judges composed of community stakeholders will provide feedback and award prizes for the winning entries. 
 
-Check out the **Judging Criteria and Scoring** to learn how the projects will be evaluated!
+**Hacking**
+Please check out [Datasets Description](https://github.com/datadrivenenvirolab/heat-hack-2022/tree/main/Data) and [Tackle Challenges](https://github.com/datadrivenenvirolab/heat-hack-2022#tackle-challenges) section to learn more about the datasets  and some prompts we provided to get start with.
 
-## Prize
+**Presentation**
+Each team will be asked to submit a presentation to be considered for the prizes. **At least one** team member must present your project at the **GSK full-dome theater**. Due to the limited internet access at the theater, we may or may not be able to live-stream the presentation. If your team will be attending virtually, and a member of the team cannot be present at the final presentation, you must send a **recorded presentation** to be eligible for prizes.
+
+**Judging and Scoring**
+Submissions will be evaluated on the **[Judging Criteria and Scoring](https://docs.google.com/document/d/1iO-O0DxXXLtL6fJjCB_2bZtt71tPpGYX/edit?usp=sharing&ouid=105193457965308390619&rtpof=true&sd=true)**. We encourage teams to be really creative in your final presentations - set up a dashboard, use ArcGIS Storymaps, create a website, pitch us a start-up idea!
+
+
+## Schedule  
+
+ _Please note that this schedule will be updated_
+
+__Last Edits__: April 13th
+|  | Activity |Location|
+|--|--|--|
+|  8:30 am| Check-in an breakfast|Outside of [Morehead Planetarium](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846)|
+|9:00 am| Introduction to HeatHack and Event Overview| [Howell](https://www.google.com/maps/place/Howell+Hall/@35.9133796,-79.0523117,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2c27f17d151:0xc8a4b0ff4944ef49!8m2!3d35.9133753!4d-79.0501177) 115|
+|9:30 am - 5 pm|Hacking and preparing for the submission|TBD|
+|12:00 pm|Lunch Break|TBD|
+|5:00 pm|Submit your video record or slides for presentation| --|
+|5:00 - 6:00 pm|Dinner|TBD|
+|6:00 -8:00 pm|Final presentation and Prizes announcement|GSK Fulldome Theater at [Morehead Planetarium](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846)|
+ 
+
+## Location
+
+UNC campus or Online -- [Discord](https://discord.com/invite/K2YJUMQXkb)
+
+
 
 
 ## Datasets Description
@@ -42,7 +75,21 @@ Please see the **[Data Description](https://github.com/datadrivenenvirolab/heat-
 ## Tackle Challenges
 In the Google doc below, we’ve provided some prompts to help you and your team think about ways to use the heat data and other data to develop potential solutions for urban heat and climate change challenges in the Triangle. The first section includes some general questions to help you start thinking about issues related to urban heat. The second section provides a “starter pack” set of prompts that can be investigated using the pre-processed heat data and input variables provided in the “Data” folder above (please see the **[Data Description](https://github.com/datadrivenenvirolab/heat-hack-2022/tree/main/Data)** for more details). The third section includes questions on more advanced topics related to vulnerable populations and policy applications that might require you to find and incorporate other datasets. For both of the advanced sections, we’ve included links to other publicly available datasets that might help answer some of these questions, but feel free to look for and incorporate any other relevant datasets you might find on your own!
 
-HeatHack Prompts: https://docs.google.com/document/d/1Qb7CPTWlWQKsAlsYCP1QZCCe_tAIUkIk/edit?usp=sharing&ouid=101544858877917002306&rtpof=true&sd=true
+**[HeatHack Prompts](https://docs.google.com/document/d/1Qb7CPTWlWQKsAlsYCP1QZCCe_tAIUkIk/edit?usp=sharing&ouid=101544858877917002306&rtpof=true&sd=true)**
+
+## Logistics
+### Team Matching
+Team matching has officially started! If you are still looking for a team or participants to join your team, please use the [Discord Channel](https://discord.gg/ABzNkGUMAb) to chat!
+
+Suggested message to the channel:
+
+> Hi all, I am Xuewei. I am interested in topics: XXXX. I have some data
+> analysis experience with my coursework and am comfortable with coding.
+> I am in a team of 2 and still looking for another teammate who is good
+> at statistical analysis. The last thing I ate was a waffle.
+> #NeedTeammate or #NeedTeam
+
+
 
 ## Background
 Fancy about more studies and event related to Urban Heat Island? 
@@ -77,4 +124,4 @@ Please check out here:
 [Work with Rasters](https://kodu.ut.ee/~kmoch/geopython2020/L5/raster.html)
 
 ## Acknowledgement
-This HeatHack 2022 Data Science Collabathon is a part of the NC Scifest led by Data-Driven Lab and the North CarolinaMuseum of Life and Science. Special thanks to our event partners: Town of Chapel Hill, Morehead Planetarium and Science Center. 
+This HeatHack 2022 Data Science Collabathon is a part of the NC Scifest led by Data-Driven Lab and the North Carolina Museum of Life and Science. Special thanks to our event partners: Town of Chapel Hill, Morehead Planetarium and Science Center. 
