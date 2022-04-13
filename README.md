@@ -33,7 +33,7 @@ Data analysis can be completed using any programming languages and tools. There 
 
 **Team**
 
-Check out [Team Matching](https://github.com/datadrivenenvirolab/heat-hack-2022#team-matching) setion to find your dream team! If you and your team will be participating the HeatHack virtually, please use the [Discord channel](https://discord.gg/ABzNkGUMAb) to collaborate and seek for help!
+Check out [Team Matching](https://github.com/datadrivenenvirolab/heat-hack-2022#team-matching) section to find your dream team! If you and your team will be participating the HeatHack virtually, please use the [Discord channel](https://discord.gg/ABzNkGUMAb) to collaborate and seek for help!
 
 Teams will have the opportunity throughout the day to ask for feedback as they develop their ideas and final products, and at the end, a panel of judges composed of community stakeholders will provide feedback and award prizes for the winning entries. 
 
@@ -63,7 +63,7 @@ __Last Edits__: April 13th
 |12:00 pm|Lunch Break|TBD|
 |5:00 pm|Submit your video record or slides for presentation| --|
 |5:00 - 6:00 pm|Dinner|TBD|
-|6:00 -8:00 pm|Final presentation and Prizes announcement|GSK Fulldome Theater at [Morehead Planetarium](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846)|
+|6:00 -8:00 pm|Final Presentation and Prizes Announcement|GSK Fulldome Theater at [Morehead Planetarium](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846)|
  
 
 ## Location
