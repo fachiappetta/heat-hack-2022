@@ -5,7 +5,7 @@ _-- **Hacking solutions to address the challenge of climate change and urban hea
 
 ![Title_image](Doc/title.png?raw=true "Title")
 
-**[HeatHack Event Main Website](http://datadrivenlab.org/heat-hack-2022/)**
+
 
 In the summer of 2021, Data-Driven Lab collaborated with the North Carolina Museum of Life and Science and the Town of Chapel Hill to pilot an urban heat data collection campaign in Chapel Hill.  We identified neighborhoods that with high potential of heat exposure based on the Town of Chapel Hill's Extreme Heat Resiliency Assessment mapp.Then we equiped the volunteers with handheld Pocketlab sensors that collect individual-scale temperature, humidity, and location measurements. We mapped five of the most vulnerable hotspots in Chapel Hill,  collecting more than 95 thousand data points. Combined with the car-based mobile monitoring conducted in the Raleigh/Durham area, we have high-resolution, spatial datasets of temperature for the entire RTP area. With these data, in addition to other data our lab has access to, we can ask questions such as, “What are the hottest parts of the triangle area, and why? How do green space and tree canopy patterns correspond to urban heat? Can we determine ‘thermal comfort’ zones and potential heat risk areas?”
 
@@ -19,7 +19,9 @@ This Collabathon is open to all! Whether you are a coder, data geek, or environm
 
 The registration will close on April 15 at 5 pm. [Register here](http://datadrivenlab.org/heat-hack-2022/)
 
-
+## Important Links
+1. **[HeatHack Event Main Website](http://datadrivenlab.org/heat-hack-2022/)**
+2. **[Discord Channel](https://discord.gg/ABzNkGUMAb)**
 
 ## How it works
 
