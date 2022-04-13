@@ -24,22 +24,27 @@ The registration will close on April 15 at 5 pm. [Register here](http://datadriv
 ## How it works
 
 **Overview**
+
  This hybrid in-person/remote one-day hackathon will bring together coders, programmers, data visualization whizzes, and environmental enthusiasts to help us discover actionable insights, develop engaging data visuals, and create action plans to address the growing and intensifying challenge of climate change and urban heat in the Triangle.
 
 Data analysis can be completed using any programming languages and tools. There will be data mentors on site and online to support the team during the event. To help participants better prepare for the event, tutorials and resources are also posted on the main event page and the [Tutorials](https://github.com/datadrivenenvirolab/heat-hack-2022#tutorials) section on this page. 
 
 **Team**
-Check out [Team Matching]() setion to find your dream team! If you and your team will be participating the HeatHack virtually, please use the [Discord channel](https://discord.gg/ABzNkGUMAb) to collaborate and seek for help!
+
+Check out [Team Matching](https://github.com/datadrivenenvirolab/heat-hack-2022#team-matching) setion to find your dream team! If you and your team will be participating the HeatHack virtually, please use the [Discord channel](https://discord.gg/ABzNkGUMAb) to collaborate and seek for help!
 
 Teams will have the opportunity throughout the day to ask for feedback as they develop their ideas and final products, and at the end, a panel of judges composed of community stakeholders will provide feedback and award prizes for the winning entries. 
 
 **Hacking**
+
 Please check out [Datasets Description](https://github.com/datadrivenenvirolab/heat-hack-2022/tree/main/Data) and [Tackle Challenges](https://github.com/datadrivenenvirolab/heat-hack-2022#tackle-challenges) section to learn more about the datasets  and some prompts we provided to get start with.
 
 **Presentation**
+
 Each team will be asked to submit a presentation to be considered for the prizes. **At least one** team member must present your project at the **GSK full-dome theater**. Due to the limited internet access at the theater, we may or may not be able to live-stream the presentation. If your team will be attending virtually, and a member of the team cannot be present at the final presentation, you must send a **recorded presentation** to be eligible for prizes.
 
 **Judging and Scoring**
+
 Submissions will be evaluated on the **[Judging Criteria and Scoring](https://docs.google.com/document/d/1iO-O0DxXXLtL6fJjCB_2bZtt71tPpGYX/edit?usp=sharing&ouid=105193457965308390619&rtpof=true&sd=true)**. We encourage teams to be really creative in your final presentations - set up a dashboard, use ArcGIS Storymaps, create a website, pitch us a start-up idea!
 
 
@@ -89,6 +94,10 @@ Suggested message to the channel:
 > at statistical analysis. The last thing I ate was a waffle.
 > #NeedTeammate or #NeedTeam
 
+### Food
+We will provide food and snacks for in-person participants. Please grab your food and enjoy the nice weather (expected to be sunny and up to 74°) with your team. Please note that food and beverages are not allowed in the classrooms. The food pickup location is to be announced
+
+**Special note on food:** We have ordered vegetarian food and have limited gluten-free options. Snacks will also be provided during the day. If you may have concerns about food restrictions or allergies, please consider bringing your own food.
 
 
 ## Background
