@@ -54,10 +54,9 @@ Submissions will be evaluated on the **[Judging Criteria and Scoring](https://do
 
 UNC campus or Online -- [Discord](https://discord.com/invite/K2YJUMQXkb)
 
-**Morning Check-in and Food hub**:  The picnic area behind Morehead Planetarium. Click here to see the [Google Map Location](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846). 
+**Morning Check-in and Food hub**:  The picnic area behind Morehead Planetarium. Click here to see the [Google Map Location](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216). 
 
 ![hub_image](Doc/checkin_hub.png?raw=true )
-
 
 ## Schedule  
 
