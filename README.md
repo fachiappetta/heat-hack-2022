@@ -33,7 +33,7 @@ Data analysis can be completed using any programming languages and tools. There 
 
 **Team**
 
-Check out [Team Matching](https://github.com/datadrivenenvirolab/heat-hack-2022#team-matching) section to find your dream team! If you and your team will be participating the HeatHack virtually, please use the [Discord channel](https://discord.gg/ABzNkGUMAb) to collaborate and seek for help!
+Check out [Team Matching](https://github.com/datadrivenenvirolab/heat-hack-2022#team-matching) setion to find your dream team! If you and your team will be participating the HeatHack virtually, please use the [Discord channel](https://discord.gg/ABzNkGUMAb) to collaborate and seek for help!
 
 Teams will have the opportunity throughout the day to ask for feedback as they develop their ideas and final products, and at the end, a panel of judges composed of community stakeholders will provide feedback and award prizes for the winning entries. 
 
@@ -43,34 +43,37 @@ Please check out [Datasets Description](https://github.com/datadrivenenvirolab/h
 
 **Presentation**
 
-Each team will be asked to submit a presentation to be considered for the prizes. **At least one** team member must present your project at the **GSK full-dome theater**. Due to the limited internet access at the theater, we may or may not be able to live-stream the presentation. If your team will be attending virtually, and a member of the team cannot be present at the final presentation, you must send a **recorded presentation** to be eligible for prizes.
+Each team will be asked to submit a presentation to be considered for the prizes. **At least one** team member must present your project at the **GSK full-dome theater**.  If your team will be attending virtually, and a member of the team cannot be present at the final presentation, you must send a **recorded presentation** to be eligible for prizes.
+
 
 **Judging and Scoring**
 
 Submissions will be evaluated on the **[Judging Criteria and Scoring](https://docs.google.com/document/d/1iO-O0DxXXLtL6fJjCB_2bZtt71tPpGYX/edit?usp=sharing&ouid=105193457965308390619&rtpof=true&sd=true)**. We encourage teams to be really creative in your final presentations - set up a dashboard, use ArcGIS Storymaps, create a website, pitch us a start-up idea!
+
+## Location
+
+UNC campus or Online -- [Discord](https://discord.com/invite/K2YJUMQXkb)
+
+**Morning Check-in and Food hub**:  The picnic area behind Morehead Planetarium. Click here to see the [Google Map Location](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846). 
+
+![hub_image](Doc/checkin_hub.png?raw=true )
 
 
 ## Schedule  
 
  _Please note that this schedule will be updated_
 
-__Last Edits__: April 13th
+__Last Edits__: April 14th
 |  | Activity |Location|
 |--|--|--|
-|  8:30 am| Check-in an breakfast|Outside of [Morehead Planetarium](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846)|
-|9:00 am| Introduction to HeatHack and Event Overview| [Howell](https://www.google.com/maps/place/Howell+Hall/@35.9133796,-79.0523117,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2c27f17d151:0xc8a4b0ff4944ef49!8m2!3d35.9133753!4d-79.0501177) 115|
-|9:30 am - 5 pm|Hacking and preparing for the submission|TBD|
-|12:00 pm|Lunch Break|TBD|
-|5:00 pm|Submit your video record or slides for presentation| --|
-|5:00 - 6:00 pm|Dinner|TBD|
-|6:00 -8:00 pm|Final Presentation and Prizes Announcement|GSK Fulldome Theater at [Morehead Planetarium](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846)|
+|  8:30 am| Check-in an breakfast|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
+|9:00 am| Introduction to HeatHack and Event Overview| [Howell Hall](https://www.google.com/maps/place/Howell+Hall/@35.9133796,-79.0523117,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2c27f17d151:0xc8a4b0ff4944ef49!8m2!3d35.9133753!4d-79.0501177) 115|
+|9:30 am - 5 pm|Hacking and preparing for the submission|[Davie Hall](https://www.google.com/maps/place/Davie+Hall,+E+Cameron+Ave,+Chapel+Hill,+NC+27514/@35.9127973,-79.0516728,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2e9dbd25cf7:0x467be4c65c6e9c39!8m2!3d35.912793!4d-79.0494841) room 101 and 112|
+|12:00 pm|Lunch Break|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
+|5:00 pm|Submit your video recording or slides for presentation| --|
+|5:00 - 6:00 pm|Pizza Break|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
+|6:00 -8:00 pm|Final presentation and Prizes announcement|GSK Fulldome Theater at [Morehead Planetarium](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846)|
  
-
-## Location
-
-UNC campus or Online -- [Discord](https://discord.com/invite/K2YJUMQXkb)
-
-
 
 
 ## Datasets Description
