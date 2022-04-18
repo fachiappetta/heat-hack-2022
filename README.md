@@ -1,10 +1,10 @@
 
 
 # HeatHack 2022: Data Science Collabathon
-_-- **Hacking solutions to address the challenge of climate change and urban heat in the Triangle**_
 
 ![Title_image](Doc/title.png?raw=true "Title")
 
+_-- **Hacking solutions to address the challenge of climate change and urban heat in the Triangle**_
 
 
 In the summer of 2021, Data-Driven Lab collaborated with the North Carolina Museum of Life and Science and the Town of Chapel Hill to pilot an urban heat data collection campaign in Chapel Hill.  We identified neighborhoods that with high potential of heat exposure based on the Town of Chapel Hill's Extreme Heat Resiliency Assessment mapp.Then we equiped the volunteers with handheld Pocketlab sensors that collect individual-scale temperature, humidity, and location measurements. We mapped five of the most vulnerable hotspots in Chapel Hill,  collecting more than 95 thousand data points. Combined with the car-based mobile monitoring conducted in the Raleigh/Durham area, we have high-resolution, spatial datasets of temperature for the entire RTP area. With these data, in addition to other data our lab has access to, we can ask questions such as, “What are the hottest parts of the triangle area, and why? How do green space and tree canopy patterns correspond to urban heat? Can we determine ‘thermal comfort’ zones and potential heat risk areas?”
@@ -52,11 +52,27 @@ Submissions will be evaluated on the **[Judging Criteria and Scoring](https://do
 
 ## Location
 
-UNC campus or Online -- [Discord](https://discord.com/invite/K2YJUMQXkb)
+**Online Participation**-- [Discord](https://discord.com/invite/K2YJUMQXkb)
+
 
 **Morning Check-in and Food hub**:  The picnic area behind Morehead Planetarium. Click here to see the [Google Map Location](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216). 
 
 ![hub_image](Doc/checkin_hub.png?raw=true )
+
+**Morning Presentation** --[Howell Hall](https://www.google.com/maps/place/Howell+Hall/@35.9133796,-79.0523117,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2c27f17d151:0xc8a4b0ff4944ef49!8m2!3d35.9133753!4d-79.0501177) 115
+![howell_image](Doc/howell.png?raw=true )
+
+
+**Reserved Workspace at [Davie Hall](https://www.google.com/maps/place/Davie+Hall,+E+Cameron+Ave,+Chapel+Hill,+NC+27514/@35.9127973,-79.0516728,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2e9dbd25cf7:0x467be4c65c6e9c39!8m2!3d35.912793!4d-79.0494841)**
+
+|Davie Hall 101| Davie Hall 112 |
+|--|--|
+| ![DA101_image](Doc/DA101.png?raw=true ) | ![DA112_image](Doc/DA112.png?raw=true ) |
+
+
+
+**GSK Fulldome Theater at [Morehead Planetarium](https://www.google.com/maps/place/Morehead+Planetarium+and+Science+Center/@35.9143303,-79.0489353,17z/data=!4m5!3m4!1s0x0:0x8effe7d104029f8c!8m2!3d35.9140325!4d-79.0505846)**
+
 
 ## Schedule  
 
@@ -65,7 +81,7 @@ UNC campus or Online -- [Discord](https://discord.com/invite/K2YJUMQXkb)
 __Last Edits__: April 14th
 |  | Activity |Location|
 |--|--|--|
-|  8:30 am| Check-in an breakfast|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
+|  8:30 am| Check-in and breakfast|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
 |9:00 am| Introduction to HeatHack and Event Overview| [Howell Hall](https://www.google.com/maps/place/Howell+Hall/@35.9133796,-79.0523117,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2c27f17d151:0xc8a4b0ff4944ef49!8m2!3d35.9133753!4d-79.0501177) 115|
 |9:30 am - 5 pm|Hacking and preparing for the submission|[Davie Hall](https://www.google.com/maps/place/Davie+Hall,+E+Cameron+Ave,+Chapel+Hill,+NC+27514/@35.9127973,-79.0516728,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2e9dbd25cf7:0x467be4c65c6e9c39!8m2!3d35.912793!4d-79.0494841) room 101 and 112|
 |12:00 pm|Lunch Break|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
@@ -124,6 +140,10 @@ Please check out here:
 
 [Intro to R](http://www.r-tutor.com/r-introduction)
 
+[Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
+
+[Full List fo R Cheatsheet](https://www.rstudio.com/resources/cheatsheets/)
+
 [Spatial Data Programming with R](http://132.72.155.230:3838/r/)
 
 [Map Spatial Data in R](https://geocompr.robinlovelace.net/adv-map.html)
@@ -131,6 +151,8 @@ Please check out here:
 **Python**
 
 [Intro to Python – Pandas](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
+
+[Python for Data Science Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
 
 [Intro to Geopandas](https://automating-gis-processes.github.io/CSC18/lessons/L2/geopandas-basics.html)
 
