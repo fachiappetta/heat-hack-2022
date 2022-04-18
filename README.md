@@ -65,9 +65,9 @@ Submissions will be evaluated on the **[Judging Criteria and Scoring](https://do
 
 **Reserved Workspace at [Davie Hall](https://www.google.com/maps/place/Davie+Hall,+E+Cameron+Ave,+Chapel+Hill,+NC+27514/@35.9127973,-79.0516728,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2e9dbd25cf7:0x467be4c65c6e9c39!8m2!3d35.912793!4d-79.0494841)**
 
-|Davie Hall 101| Davie Hall 112 |
-|--|--|
-| ![DA101_image](Doc/DA101.png?raw=true ) | ![DA112_image](Doc/DA112.png?raw=true ) |
+|Davie Hall 101| Davie Hall 112 |Davie Hall 301 |
+|--|--|--|
+| ![DA101_image](Doc/DA101.png?raw=true ) | ![DA112_image](Doc/DA112.png?raw=true ) |![DA301_image](Doc/DA301.png?raw=true )|
 
 
 
@@ -78,12 +78,12 @@ Submissions will be evaluated on the **[Judging Criteria and Scoring](https://do
 
  _Please note that this schedule will be updated_
 
-__Last Edits__: April 14th
+__Last Edits__: April 18th
 |  | Activity |Location|
 |--|--|--|
-|  8:30 am| Check-in and breakfast|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
+|  8:30 am| Check-in to get your HeatHack swags and pick up breakfast|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
 |9:00 am| Introduction to HeatHack and Event Overview| [Howell Hall](https://www.google.com/maps/place/Howell+Hall/@35.9133796,-79.0523117,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2c27f17d151:0xc8a4b0ff4944ef49!8m2!3d35.9133753!4d-79.0501177) 115|
-|9:30 am - 5 pm|Hacking and preparing for the submission|[Davie Hall](https://www.google.com/maps/place/Davie+Hall,+E+Cameron+Ave,+Chapel+Hill,+NC+27514/@35.9127973,-79.0516728,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2e9dbd25cf7:0x467be4c65c6e9c39!8m2!3d35.912793!4d-79.0494841) room 101 and 112|
+|9:30 am - 5 pm|Hacking and preparing for the submission|[Davie Hall](https://www.google.com/maps/place/Davie+Hall,+E+Cameron+Ave,+Chapel+Hill,+NC+27514/@35.9127973,-79.0516728,17z/data=!3m1!4b1!4m5!3m4!1s0x89acc2e9dbd25cf7:0x467be4c65c6e9c39!8m2!3d35.912793!4d-79.0494841) room 101, 112 and 301|
 |12:00 pm|Lunch Break|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
 |5:00 pm|Submit your video recording or slides for presentation| --|
 |5:00 - 6:00 pm|Pizza Break|The picnic area behind [Morehead Planetarium](https://www.google.com/maps/place/35%C2%B054'49.3%22N+79%C2%B003'01.5%22W/@35.9137031,-79.0509692,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x63c4f5929775c4e9!7e2!8m2!3d35.9137019!4d-79.0504216)|
@@ -115,7 +115,7 @@ Suggested message to the channel:
 > #NeedTeammate or #NeedTeam
 
 ### Food
-We will provide food and snacks for in-person participants. Please grab your food and enjoy the nice weather (expected to be sunny and up to 74°) with your team. Please note that food and beverages are not allowed in the classrooms. The food pickup location is to be announced
+We will provide food and snacks for in-person participants. Please grab your food and enjoy the nice weather (expected to be sunny and up to 74°) with your team. Please note that food and beverages are not allowed in the classrooms.  _*Updates: We will set up a food hub at the picnic area behind Morehead (please see info in the Location section). Please consider bringing your own plates/tupperware/silverware to help reduce the plastic and paper waste!_
 
 **Special note on food:** We have ordered vegetarian food and have limited gluten-free options. Snacks will also be provided during the day. If you may have concerns about food restrictions or allergies, please consider bringing your own food.
 
