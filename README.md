@@ -2,7 +2,7 @@
 
 # HeatHack 2022: Data Science Collabathon
 
-![Title_image](Doc/title.png?raw=true "Title")
+![Title_image](Doc/title.png "Title")
 
 _-- **Hacking solutions to address the challenge of climate change and urban heat in the Triangle**_
 
