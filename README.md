@@ -123,7 +123,7 @@ We will provide food and snacks for in-person participants. Please grab your foo
 ## Panel of Judges
 | [**Max Cawley**](https://www.lifeandscience.org/learn/the-innovation-learning-team/) |[**Myleigh Neill**](https://climate.ncsu.edu/people/myleigh-neill/) |[**Shenekia Weeks**](https://www.townofchapelhill.org/Home/Components/News/News/17147/#:~:text=Town%20Manager%20Maurice%20Jones%20has,highly%2Dtalented%20pool%20of%20applicants)|
 |--|--|--|
-| ![Max Cawley](Doc/Max-Cawley.png "Title") | ![Myleigh Neill](Doc/myleigh_neill.jpg "Title") | ![Shenekia Weeks](Doc/ShenekiaWeeks.jpg "Title")|
+| ![Max Cawley](Doc/Max-Cawley.png?raw=true "Title") | ![Myleigh Neill](Doc/myleigh_neill.jpg?raw=true "Title") | ![Shenekia Weeks](Doc/ShenekiaWeeks.jpg?raw=true "Title")|
 |_Program Manager for Public Engagement with Science_ <br>NC Museum of Life and Science | _Instrumentation Technician_ <br>North Carolina State Climate Office| _Diversity, Equity, and Inclusion (DEI) Officer_ <br> Town of Chapel Hill|
 
 ## Background
