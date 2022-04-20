@@ -106,6 +106,7 @@ In the Google doc below, we’ve provided some prompts to help you and your team
 ### Team Matching
 Team matching has officially started! If you are still looking for a team or participants to join your team, please use the [Discord Channel](https://discord.gg/ABzNkGUMAb) to chat!
 
+
 Suggested message to the channel:
 
 > Hi all, I am Xuewei. I am interested in topics: XXXX. I have some data
@@ -113,6 +114,8 @@ Suggested message to the channel:
 > I am in a team of 2 and still looking for another teammate who is good
 > at statistical analysis. The last thing I ate was a waffle.
 > #NeedTeammate or #NeedTeam
+
+**All teams are required to fill in this [Team Matching](https://docs.google.com/spreadsheets/d/1ijm9xikt1RmzzKcEYv_4PX4V_JLZY_VwsiLp4AanLuw/edit#gid=0) form before the beginning of hacking (9:30 am on Saturday).** Please note that only the teams that fill out the Team Matching form will be considered for the final presentation and prizes. You can fill out the form now with the current team and look for more teammates later.
 
 ### Food
 We will provide food and snacks for in-person participants. Please grab your food and enjoy the nice weather (expected to be sunny and up to 74°) with your team. Please note that food and beverages are not allowed in the classrooms.  _*Updates: We will set up a food hub at the picnic area behind Morehead (please see info in the Location section). Please consider bringing your own plates/tupperware/silverware to help reduce the plastic and paper waste!_
