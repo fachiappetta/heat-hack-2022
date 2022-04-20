@@ -120,6 +120,12 @@ We will provide food and snacks for in-person participants. Please grab your foo
 **Special note on food:** We have ordered vegetarian food and have limited gluten-free options. Snacks will also be provided during the day. If you may have concerns about food restrictions or allergies, please consider bringing your own food.
 
 
+## Panel of Judges
+| [**Max Cawley**](https://www.lifeandscience.org/learn/the-innovation-learning-team/) |[**Myleigh Neill**](https://climate.ncsu.edu/people/myleigh-neill/) |[**Shenekia Weeks**](https://www.townofchapelhill.org/Home/Components/News/News/17147/#:~:text=Town%20Manager%20Maurice%20Jones%20has,highly%2Dtalented%20pool%20of%20applicants)|
+|--|--|--|
+| ![Max Cawley](Doc/Max-Cawley.png "Title") | ![Myleigh Neill](Doc/myleigh_neill.jpg "Title") | ![Shenekia Weeks](Doc/ShenekiaWeeks.jpg "Title")|
+|_Program Manager for Public Engagement with Science_ <br>NC Museum of Life and Science | _Instrumentation Technician_ <br>North Carolina State Climate Office| _Diversity, Equity, and Inclusion (DEI) Officer_ <br> Town of Chapel Hill|
+
 ## Background
 Fancy about more studies and event related to Urban Heat Island? 
 Please check out here:
