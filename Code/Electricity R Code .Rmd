@@ -1,0 +1,90 @@
+---
+title: "Heat Hack 2022"
+author: "Francesca Chiappetta"
+date: "4/23/2022"
+output: html_document
+---
+```{r}
+library(tidyverse)
+library(tidycensus)
+library(sf) #this is the spatial package
+library(tmap) #this is the mapping
+library(rmapshaper)
+library(ggplot2)
+library(spdep)
+library(sf)
+library(rgdal)
+
+```
+
+```{r setup, include=FALSE}
+
+tract <- read.csv("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/downloaded_data/download/DurhamNeighborhoodCompass-tract.csv")
+
+block <- read.csv("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/downloaded_data/download/DurhamNeighborhoodCompass-blockgroup.csv")
+
+glimpse(block)
+block$Geography.Id
+```
+
+```{r}
+shapefile <- st_read("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/downloaded_data/download/geography/blockgroups/durham_blockgroups.shp")
+
+
+shapefile$id <- as.double(shapefile$id)
+glimpse(shapefile)
+```
+
+
+```{r}
+merged <- merge(x = shapefile, y = block, by.x = "id", by.y = "Geography.Id")  
+#glimpse(merged)
+merged$geometry
+
+
+```
+```{r}
+merged$Avg..Monthly.Household.Electricity.Use..2013<-gsub("[^0-9.-]", "", merged$Avg..Monthly.Household.Electricity.Use..2013)
+
+merged$Avg..Monthly.Household.Electricity.Use..2013 <- as.double(merged$Avg..Monthly.Household.Electricity.Use..2013)
+
+
+merged$Avg..Monthly.Household.Electricity.Use..2014<-gsub("[^0-9.-]", "", merged$Avg..Monthly.Household.Electricity.Use..2014)
+
+merged$Avg..Monthly.Household.Electricity.Use..2014 <- as.double(merged$Avg..Monthly.Household.Electricity.Use..2014)
+
+```
+
+
+```{r}
+
+ggplot() + 
+  geom_sf(data = merged, size = 1, color = "black", fill = "cyan1") + 
+  ggtitle("Durham Blocks") + 
+  coord_sf()
+
+
+tm_shape(merged) + tm_polygons(col="Avg..Monthly.Household.Electricity.Use..2013", border.col = "white") + 
+  tm_legend(outside = TRUE)
+
+tm_shape(merged) + tm_polygons(col="Avg..Monthly.Household.Electricity.Use..2014", border.col = "white") + 
+  tm_legend(outside = TRUE) 
+
+```
+```{r}
+readxl::read_xlsx("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/heat-hack-2022/Data/Aggregated by Block Groups/RD_Aggregated_BG_LC_Data_0331.xlsx", sheet = 2)
+
+blocks_df <- st_read("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/heat-hack-2022/Data/Aggregated by Block Groups/Spatial_Data_BG/RD_BG_LC_0404.shx")
+
+#heat index AM_HI 
+#heat index AM_HI 
+```
+```{r}
+
+```
+
+
+
+
+
+
