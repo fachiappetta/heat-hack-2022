@@ -4,6 +4,28 @@ author: "Francesca Chiappetta"
 date: "4/23/2022"
 output: html_document
 ---
+
+
+Variables 
+Total Expenditure (USD)	Combined annual gas and electric expenditure per household in the census block group.	[29,37,60]
+Building Size (ft2)	Average total floor area in square feet of each building within the census block group.	[6,11]
+Median Building Age (years old)	Median building age in years, calculated by subtracting the year built from 2016.	[61]
+Lot Size (acres)	Average total land area of the parcel upon which the building sits, measured in acres.	[27]
+Building Density	Number of single-family residential buildings divided by the total area of the census block group.	[20,62,63]
+Average Household Size	Average number of residents in a single housing unit in the census block group.	[6,11,17]
+Median Household Income	Median household income of the census block group.	[34]
+% Renter Population	Percentage of renters in occupied housing unit population.	[64]
+% White	Percentage of total census block group population that is Caucasian.	[36,51]
+% African American	Percentage of total census block group population that is African American.	[34,36]
+% Hispanic/Latino	Percentage of total census block group population that is Hispanic or Latino.	[34]
+% Bachelor's Degree or Higher	Percentage of total census block group population over the age of 25 that holds a Bachelor's degree or higher.	[34,61]
+% 65 or Older	Percentage of total census block group population that is at least 65 years old.	[37,61]
+% 18 or younger	Percentage of total census block group population that is 18 years or younger.	[37,61]
+Average Morning Temperature	The average annualized morning temperature used to measure urban heat at the Census Block Group scale.	[37,65]
+Average Afternoon Temperature	The average annualized afternoon temperature used to measure urban heat at the Census Block Group scale.	[37,65]
+Average Evening Temperature	The average annualized evening temperature used to measure urban heat at the Census Block Group scale.	[37,65]
+
+
 ```{r}
 library(tidyverse)
 library(tidycensus)
@@ -14,7 +36,7 @@ library(ggplot2)
 library(spdep)
 library(sf)
 library(rgdal)
-
+library(raster)
 ```
 
 ```{r setup, include=FALSE}
@@ -79,12 +101,44 @@ blocks_df <- st_read("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/hea
 #heat index AM_HI 
 #heat index AM_HI 
 ```
+
 ```{r}
+
+tm_shape(blocks_df) + tm_polygons(col="am_hi", border.col = "white") + 
+  tm_legend(outside = TRUE) 
+tm_shape(blocks_df) + tm_polygons(col="af_hi", border.col = "white") + 
+  tm_legend(outside = TRUE) 
+tm_shape(blocks_df) + tm_polygons(col="pm_hi", border.col = "white") + 
+  tm_legend(outside = TRUE) 
+
 
 ```
 
 
+```{r}
+blocks_df
 
+merged <- merge(x = merged, y = blocks_df, by.x = "id", by.y = "GEOID10")  
+
+merged <- merged %>% as.data.frame()
+blocks_df <-  blocks_df %>% as.data.frame()
+
+names(blocks_df)[names(blocks_df) == 'GEOID10'] <- 'id'
+blocks_df$id <- as.double(blocks_df$id)
+
+df <- inner_join(merged, blocks_df, by = "id")
+
+df %>% st_sf(sf_column_name = 'geometry.x')
+```
+```{r}
+df$Per.Capita.Income..2014 <- as.data.frame(df$Per.Capita.Income..2014)
+```
+
+
+```{r}
+model <- lm(Avg..Monthly.Household.Electricity.Use..2014 ~ pm_hi + Per.Capita.Income..2014, data = df)
+summary(model)
+```
 
 
 
