@@ -26,7 +26,7 @@ Average Afternoon Temperature	The average annualized afternoon temperature used 
 Average Evening Temperature	The average annualized evening temperature used to measure urban heat at the Census Block Group scale.	[37,65]
 
 
-```{r}
+```{r libraries}
 library(tidyverse)
 library(tidycensus)
 library(sf) #this is the spatial package
@@ -39,17 +39,16 @@ library(rgdal)
 library(raster)
 ```
 
-```{r setup, include=FALSE}
+```{r read data, include=FALSE}
 
 tract <- read.csv("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/downloaded_data/download/DurhamNeighborhoodCompass-tract.csv")
 
 block <- read.csv("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/downloaded_data/download/DurhamNeighborhoodCompass-blockgroup.csv")
 
-glimpse(block)
-block$Geography.Id
+
 ```
 
-```{r}
+```{r read data}
 shapefile <- st_read("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/downloaded_data/download/geography/blockgroups/durham_blockgroups.shp")
 
 
@@ -58,14 +57,16 @@ glimpse(shapefile)
 ```
 
 
-```{r}
+```{r merge data}
 merged <- merge(x = shapefile, y = block, by.x = "id", by.y = "Geography.Id")  
 #glimpse(merged)
 merged$geometry
 
 
 ```
-```{r}
+```{r clean data}
+
+#cleaning electicity data
 merged$Avg..Monthly.Household.Electricity.Use..2013<-gsub("[^0-9.-]", "", merged$Avg..Monthly.Household.Electricity.Use..2013)
 
 merged$Avg..Monthly.Household.Electricity.Use..2013 <- as.double(merged$Avg..Monthly.Household.Electricity.Use..2013)
@@ -78,22 +79,20 @@ merged$Avg..Monthly.Household.Electricity.Use..2014 <- as.double(merged$Avg..Mon
 ```
 
 
-```{r}
+```{r plotting}
 
-ggplot() + 
-  geom_sf(data = merged, size = 1, color = "black", fill = "cyan1") + 
-  ggtitle("Durham Blocks") + 
-  coord_sf()
-
-
+#plotting monthly household electricity use in 2013
 tm_shape(merged) + tm_polygons(col="Avg..Monthly.Household.Electricity.Use..2013", border.col = "white") + 
   tm_legend(outside = TRUE)
 
+#plotting monthly household electricity use in 2014
 tm_shape(merged) + tm_polygons(col="Avg..Monthly.Household.Electricity.Use..2014", border.col = "white") + 
   tm_legend(outside = TRUE) 
 
 ```
-```{r}
+```{r read in more data}
+
+#read in heat index data
 readxl::read_xlsx("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/heat-hack-2022/Data/Aggregated by Block Groups/RD_Aggregated_BG_LC_Data_0331.xlsx", sheet = 2)
 
 blocks_df <- st_read("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/heat-hack-2022/Data/Aggregated by Block Groups/Spatial_Data_BG/RD_BG_LC_0404.shx")
@@ -102,8 +101,9 @@ blocks_df <- st_read("/Users/frankiechiappetta/Desktop/DUKE/coding_workshops/hea
 #heat index AM_HI 
 ```
 
-```{r}
+```{r map heat index}
 
+#map Heat index data in the am, the afternoon, and the night
 tm_shape(blocks_df) + tm_polygons(col="am_hi", border.col = "white") + 
   tm_legend(outside = TRUE) 
 tm_shape(blocks_df) + tm_polygons(col="af_hi", border.col = "white") + 
@@ -115,11 +115,10 @@ tm_shape(blocks_df) + tm_polygons(col="pm_hi", border.col = "white") +
 ```
 
 
-```{r}
+```{r merge heat index and mega datasets}
 blocks_df
 
-merged <- merge(x = merged, y = blocks_df, by.x = "id", by.y = "GEOID10")  
-
+#we have to make them dataframes
 merged <- merged %>% as.data.frame()
 blocks_df <-  blocks_df %>% as.data.frame()
 
@@ -128,15 +127,16 @@ blocks_df$id <- as.double(blocks_df$id)
 
 df <- inner_join(merged, blocks_df, by = "id")
 
+#and then make them geometry objects again
 df %>% st_sf(sf_column_name = 'geometry.x')
 ```
-```{r}
-df$Per.Capita.Income..2014 <- as.data.frame(df$Per.Capita.Income..2014)
-```
+
 
 
 ```{r}
-model <- lm(Avg..Monthly.Household.Electricity.Use..2014 ~ pm_hi + Per.Capita.Income..2014, data = df)
+
+#LINEAR REGRESSION WOOOOSHOO
+model <- lm(Avg..Monthly.Household.Electricity.Use..2014 ~ am_hi + af_hi + pm_hi + Asian.Population..2015, data = df)
 summary(model)
 ```
 
